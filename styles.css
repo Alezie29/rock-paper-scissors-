@@ -1,0 +1,9 @@
+button {
+    display: inline-block;
+    background-color: #7b38d8;
+    padding: 20px;
+    width: 200px;
+    color: #ffffff;
+    text-align: center;
+    margin: 2%;
+}
